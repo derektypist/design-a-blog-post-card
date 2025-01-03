@@ -18,7 +18,7 @@ On [GitHub Pages](https://derektypist.github.io/design-a-blog-post-card) in the 
 
 ### Images
 
-Taken from [Computer Screenshots](https://uk.pinterest.com/derekthesec/computer-screeenshots)
+Taken from [Computer Screenshots](https://www.pinterest.co.uk/derekthesec/computer-screenshots)
 
 ### Acknowledgements
 
